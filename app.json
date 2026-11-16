@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Pokedex App",
+    "slug": "pokedex-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android", "web"]
+  }
+}
